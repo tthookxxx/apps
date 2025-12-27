@@ -1,45 +1,45 @@
 Package: com.yourcompany.full
-Version: 1.0.0-1+debug
+Version: 1.0.0-2
 Architecture: all
 Maintainer: A Leo
 Installed-Size: 0
-Depends: com.yourcompany.ttcachehookbackup com.yourcompany.tthook
-Filename: debs/com.yourcompany.full_1.0.0-1+debug_all.deb
+Depends: com.yourcompany.ttcachehookbackup, com.yourcompany.tthook
+Filename: debs/com.yourcompany.full_1.0.0-2_all.deb
 Size: 616
-MD5sum: 21b544b2cc050aea1b28361cbcabb389
-SHA1: c3e31dfffdd4b49f12e0fc4180837b005eda31a6
-SHA256: ff07f8b4d293d6127aa07c226976f37b7485d5e559222c68eac75308c0ad1e56
+MD5sum: ffda2e450f0e091e566243cd65673416
+SHA1: 584d20c25f24db9baca0a7a9fc909199a2f0a2ac
+SHA256: bc8cdace45852c964fba25e9015e3646cb63fb838c7f79cfe25d26ef6fdad67a
 Section: Utilities
 Description: Installs HOOK Apps
 Author: A Leo
 Name: Full Package
 
 Package: com.yourcompany.ttcachehookbackup
-Version: 0.0.1-1+debug
+Version: 0.0.1-2
 Architecture: iphoneos-arm64e
 Maintainer: A Leo
 Installed-Size: 2952
-Filename: debs/com.yourcompany.ttcachehookbackup_0.0.1-1+debug_iphoneos-arm64e.deb
-Size: 2717422
-MD5sum: 0c0b6b2e184423fa6b9631e2882fd9d6
-SHA1: f4543ebb5b7b81f9022e8b8195efbc37fcc07d87
-SHA256: bc5e6920c67effe1e5cdd4932de064a7783f69c4b13eaaaf8405d071b975840a
+Filename: debs/com.yourcompany.ttcachehookbackup_0.0.1-2_iphoneos-arm64e.deb
+Size: 2717418
+MD5sum: 5d35d2996c21e2600d0e13ba970465d7
+SHA1: c91ab377c402092f1baa61859e6ac11efb5d9705
+SHA256: f52f9efee5834dd826ed29de5f2933b81db885657dc5292e7ba088c45d27e4ff
 Section: Utilities
 Description: An awesome application!
 Author: A Leo
 Name: TTCacheHookBackup
 
 Package: com.yourcompany.tthook
-Version: 0.0.60-2+debug
+Version: 0.0.60-3
 Architecture: iphoneos-arm64e
 Maintainer: A Leo
-Installed-Size: 276
+Installed-Size: 212
 Depends: firmware (>= 14.0), ellekit
-Filename: debs/com.yourcompany.tthook_0.0.60-2+debug_iphoneos-arm64e.deb
-Size: 30084
-MD5sum: 90e43f7bd93f1d2f567cd290d854da5c
-SHA1: 5af8320b57cf4093ade9045a7fd542a020fa4391
-SHA256: 8a2e1b7da2792c664bd6b7d54aecfab63751afd17ab910a6e32eb7d838c0553f
+Filename: debs/com.yourcompany.tthook_0.0.60-3_iphoneos-arm64e.deb
+Size: 21180
+MD5sum: 2924f6d51f930cc3001f044aaaab26e0
+SHA1: 790c0bcf615ccf701a4c013f31c70fbf01135398
+SHA256: 8ba2d89fa2e2fee4e2d1976a25fe051677ff004a593835b2fdb195f9358305e7
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: A Leo
