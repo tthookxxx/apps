@@ -1,3 +1,19 @@
+Package: com.yourcompany.full
+Version: 1.0.0-1+debug
+Architecture: all
+Maintainer: A Leo
+Installed-Size: 0
+Depends: com.yourcompany.ttcachehookbackup com.yourcompany.tthook
+Filename: debs/com.yourcompany.full_1.0.0-1+debug_all.deb
+Size: 616
+MD5sum: 21b544b2cc050aea1b28361cbcabb389
+SHA1: c3e31dfffdd4b49f12e0fc4180837b005eda31a6
+SHA256: ff07f8b4d293d6127aa07c226976f37b7485d5e559222c68eac75308c0ad1e56
+Section: Utilities
+Description: Installs HOOK Apps
+Author: A Leo
+Name: Full Package
+
 Package: com.yourcompany.ttcachehookbackup
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64e
