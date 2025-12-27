@@ -1,0 +1,16 @@
+Package: com.yourcompany.tthook
+Version: 0.0.60-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: A Leo
+Installed-Size: 276
+Depends: firmware (>= 14.0), ellekit
+Filename: debs/com.yourcompany.tthook_0.0.60-2+debug_iphoneos-arm64e.deb
+Size: 30084
+MD5sum: 90e43f7bd93f1d2f567cd290d854da5c
+SHA1: 5af8320b57cf4093ade9045a7fd542a020fa4391
+SHA256: 8a2e1b7da2792c664bd6b7d54aecfab63751afd17ab910a6e32eb7d838c0553f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: A Leo
+Name: tt_hook
+
