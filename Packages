@@ -15,15 +15,15 @@ Author: A Leo
 Name: Full Package
 
 Package: com.yourcompany.ttcachehookbackup
-Version: 2.0.4-1
+Version: 2.0.5-1
 Architecture: iphoneos-arm64e
 Maintainer: A Leo
 Installed-Size: 3052
-Filename: debs/com.yourcompany.ttcachehookbackup_2.0.4-1_iphoneos-arm64e.deb
-Size: 2737072
-MD5sum: 7d8488a8a3a1b00876db5b2bbf1fc6dc
-SHA1: c1d1017847fe9c76b28c5d4e88f6ef768ddf6086
-SHA256: e18967ce10169dd259c369aea6700796354a72d4429f6f83c16080c722b737d9
+Filename: debs/com.yourcompany.ttcachehookbackup_2.0.5-1_iphoneos-arm64e.deb
+Size: 2737118
+MD5sum: 16303a2856d91285701bcd152dea964b
+SHA1: bb160b88e5500758cce3a70d091f536b7d20d368
+SHA256: c983b9462d6acf85aa5023c636bcf3d2040bf3c9f186d8517ed70d34d069cc14
 Section: Utilities
 Description: An awesome application!
 Author: A Leo
