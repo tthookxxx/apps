@@ -30,16 +30,16 @@ Author: A Leo
 Name: TTCacheHookBackup
 
 Package: com.yourcompany.tthook
-Version: 2.0.9-1
+Version: 2.0.11-1
 Architecture: iphoneos-arm64e
 Maintainer: A Leo
-Installed-Size: 212
+Installed-Size: 228
 Depends: firmware (>= 14.0), ellekit
-Filename: debs/com.yourcompany.tthook_2.0.9-1_iphoneos-arm64e.deb
-Size: 24046
-MD5sum: 14199f9e83923c4e3406f6317bc4aec4
-SHA1: 444fc7ce270349add73288358a0f11f0288479ab
-SHA256: 7c91b0448b1862e9d365d157d76a232794b04d95f42811a8b70bb18474caedcd
+Filename: debs/com.yourcompany.tthook_2.0.11-1_iphoneos-arm64e.deb
+Size: 25230
+MD5sum: fdf504d36cc2ba2d1459ae7b03f30b79
+SHA1: 56c2dab66d89f43d467014cd297f7ab21c3e442b
+SHA256: aa2352bd429061bc21f831072e8f3a70abdaff979aa927358ee20c1a68b3fb95
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: A Leo
