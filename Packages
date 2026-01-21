@@ -29,6 +29,22 @@ Description: An awesome application! (apply_contact)
 Author: A Leo
 Name: TTCacheHookBackup
 
+Package: com.yourcompany.ttfollow
+Version: 0.0.1-14
+Architecture: iphoneos-arm64e
+Maintainer: A Leo
+Installed-Size: 204
+Depends: firmware (>= 14.0), ellekit
+Filename: debs/com.yourcompany.ttfollow_0.0.1-14_iphoneos-arm64e.deb
+Size: 14962
+MD5sum: 0a67e3bcf9917282171759165e928c96
+SHA1: c48f0a5eea57eaf370c166dd2c7f2f04c2cf98b3
+SHA256: f1f21ded272fb0f97a42176dcfa26393f8f13f8920a40ec009ee86e1e92f3368
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: A Leo
+Name: ttfollow
+
 Package: com.yourcompany.tthook
 Version: 2.0.12-2
 Architecture: iphoneos-arm64e
