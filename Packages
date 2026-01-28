@@ -46,16 +46,16 @@ Author: A Leo
 Name: ttfollow
 
 Package: com.yourcompany.tthook
-Version: 2.0.12-2
+Version: 2.0.12-4
 Architecture: iphoneos-arm64e
 Maintainer: A Leo
-Installed-Size: 212
+Installed-Size: 228
 Depends: firmware (>= 14.0), ellekit
-Filename: debs/com.yourcompany.tthook_2.0.12-2_iphoneos-arm64e.deb
-Size: 22142
-MD5sum: 0664df6dea0d63988a55e52c1e959818
-SHA1: 5bf809e40fe1fbf41ef8c15283703f6be0e1b435
-SHA256: 958a79cb65ae34d6b1046604b8ba4d43cce2172537910d907360a9fa45ba939b
+Filename: debs/com.yourcompany.tthook_2.0.12-4_iphoneos-arm64e.deb
+Size: 25174
+MD5sum: e00ede01b9c3e257d15e2e8a6caa38d8
+SHA1: 3838ec9d55f22e73d220c52bdfcdbf6c5c5628b0
+SHA256: cfd6dca8a907277c688d38a8e4942bc83a6ced0e16f001aaa1a02b1ead240a56
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: A Leo
