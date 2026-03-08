@@ -1,13 +1,13 @@
 Package: com.aleo.ttroothook
-Version: 1.0.0-5
+Version: 1.0.0-6
 Architecture: iphoneos-arm64e
 Maintainer: Aleo
 Installed-Size: 76
-Filename: debs/com.aleo.ttroothook_1.0.0-5_iphoneos-arm64e.deb
-Size: 5178
-MD5sum: aa9a9b34a5b4c24b287aac6b339dc1cb
-SHA1: ef1ccc5bc0485ff8776516a69f0b2e710de4fe9c
-SHA256: 1cb825703c56c656cbc53e7f529284647c768b096cac8176a49672dc8764c0c9
+Filename: debs/com.aleo.ttroothook_1.0.0-6_iphoneos-arm64e.deb
+Size: 5194
+MD5sum: 5a3c1394dff5685d6270136bed06ce5c
+SHA1: d8e6fd47b9bfc08e62f968e31d6dcd7829439e04
+SHA256: 456d640c77236d56dfbb0996b1b8fc51275153a8da25b82c4da40e1b7dfac0b1
 Section: System
 Description: ttroothook binary package
 Author: Aleo
