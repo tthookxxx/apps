@@ -1,3 +1,18 @@
+Package: com.aleo.ttroothook
+Version: 1.0.0-5
+Architecture: iphoneos-arm64e
+Maintainer: Aleo
+Installed-Size: 76
+Filename: debs/com.aleo.ttroothook_1.0.0-5_iphoneos-arm64e.deb
+Size: 5178
+MD5sum: aa9a9b34a5b4c24b287aac6b339dc1cb
+SHA1: ef1ccc5bc0485ff8776516a69f0b2e710de4fe9c
+SHA256: 1cb825703c56c656cbc53e7f529284647c768b096cac8176a49672dc8764c0c9
+Section: System
+Description: ttroothook binary package
+Author: Aleo
+Name: ttroothook
+
 Package: com.yourcompany.full
 Version: 1.0.0-3
 Architecture: iphoneos-arm64e
@@ -15,15 +30,15 @@ Author: A Leo
 Name: Full Package
 
 Package: com.yourcompany.ttcachehookbackup
-Version: 2.2.5-1
+Version: 2.2.11-1
 Architecture: iphoneos-arm64e
 Maintainer: A Leo
 Installed-Size: 3152
-Filename: debs/com.yourcompany.ttcachehookbackup_2.2.5-1_iphoneos-arm64e.deb
-Size: 2758234
-MD5sum: 84ab3faf839388be40365fb188e11f7b
-SHA1: e6a9f00cc405bed75ca56865fbfe4101a6dca12a
-SHA256: 690ccb4c89ae2f32dbcce3090b96629ecd8193cc2f36a5982cd1e252f4434adf
+Filename: debs/com.yourcompany.ttcachehookbackup_2.2.11-1_iphoneos-arm64e.deb
+Size: 2760190
+MD5sum: 1cdbc5c4e37dafd3aa0f3ac8d3113abb
+SHA1: 7a13f1fea818bc2415c11802563f6f65d1f39574
+SHA256: daed5905ff127f3d6f9757c87308e18e61d2bd911a2d00dd7102745f586b42f3
 Section: Utilities
 Description: An awesome application! (apply_contact)
 Author: A Leo
